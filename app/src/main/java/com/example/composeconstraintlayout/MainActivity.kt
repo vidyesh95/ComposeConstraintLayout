@@ -45,7 +45,6 @@ fun MyApp() {
     }
 }
 
-
 @Composable
 fun DecoupledConstraintLayout() {
     BoxWithConstraints {
